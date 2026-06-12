@@ -51,15 +51,15 @@ This project showcases an interactive Power BI dashboard built using the Global 
 
 ### Home Dashboard
 
-![Dashboard Home](Screenshots/dashboard_home.png)
+![Dashboard Home](screenshots/dashboard_home.png)
 
 ### Filtered Dashboard View
 
-![Dashboard Filters](Screenshots/dashboard_filters.png)
+![Dashboard Filters](screenshots/dashboard_filters.png)
 
 ### Key Insights View
 
-![Dashboard Insights](Screenshots/dashboard_insights.png)
+![Dashboard Insights](screenshots/dashboard_insights.png)
 
 ## Project Structure
 
